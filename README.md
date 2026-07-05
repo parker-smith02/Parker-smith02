@@ -1,1 +1,1 @@
-My name is Parker Smith and I am a 3rd year computer science student at the university of Connecticut with a concentration in software development.  
+My name is Parker Smith, I'm a full stack software engineer at Hubbell. UConn alum.
